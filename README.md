@@ -1,7 +1,7 @@
 # Proton Gen2 SmartCar v1.0
-by AZ Putra
+oleh AZ Putra
 
-My other projects are in my digital CV : https://cv.zulsyah.com
+Anda boleh melihat projek saya yang lain di halaman Digital CV saya : https://cv.zulsyah.com
 
 # Bahasa Melayu #
 
