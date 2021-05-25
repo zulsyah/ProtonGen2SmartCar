@@ -7,7 +7,11 @@ Anda boleh melihat projek saya yang lain di halaman Digital CV saya : http://cv.
 
 Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
 
-Laman Github ini mengandungi kod sumber (source code) bagi modul ESP8266 dan juga fail (.aia) kepada penghasilan aplikasi yang saya bangunkan menggunakan MIT App Inventor.
+Laman Github ini mengandungi kod sumber (source code) untuk projek ini. Antaranya ialah :- 
+
+- **Pelayan :** Python 3.7
+- **Nod :** Arduino C++
+- **Aplikasi mudah alih :** MIT App Inventor
 
 Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino` manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama `HondaCRV_RD1_smartcar.aia`.
 
