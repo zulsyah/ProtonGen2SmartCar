@@ -43,7 +43,6 @@ char pass[] = "Your WiFi password";
 
 Aplikasi ini hanya mempunyai satu antara muka sahaja.
 <p align="centre"> <img src="https://i.imgur.com/OzQiomU.jpg" width="25%" height="25%"> </p>
-10 | MB102 830 Holes Large Solderless Breadboard | 
 
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
