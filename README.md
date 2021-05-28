@@ -5,20 +5,23 @@ Anda boleh melihat projek saya yang lain di halaman Digital CV saya : http://cv.
 
 # Bahasa Melayu #
 
-Assalamualaikum, syukur ke hadrat ilahi kerana dengan kurniaNya saya dapat menghasilkan projek ini. Projek ini masih tidak siap sepenuhnya tapi saya berpuas hati dengan apa yang saya dapat capai.
+Laman Github ini mengandungi kod sumber *(source code)* untuk projek ini.
 
-Laman Github ini mengandungi kod sumber (source code) untuk projek ini. Antaranya ialah :- 
+- Sistem pengoperasian :
+  + **Pelayan :** Raspbian Stretch (berdasarkan Debian 9)
+  + **Aplikasi mudah alih :** Android/iOS
 
-- **Pelayan :** Python 3.7
-- **Nod :** Arduino C++
-- **Aplikasi mudah alih :** MIT App Inventor
-
-Untuk memuat turun kod Arduino, sila muat turun fail yang bernama `ESP8266_SmartCar.ino` manakala untuk memuat turun fail (.aia), sila muat turun fail yang bernama `HondaCRV_RD1_smartcar.aia`.
+- Bahasa pengaturcaraan :
+  + **Pelayan :** Python 3.7
+  + **Nod :** Arduino C++
+  + **Aplikasi mudah alih :** MIT App Inventor
+  + **Aplikasi web :** HTML/CSS/JS
 
 ### Litar skematik dan cara pasang
 
-Anda boleh melihat litar skematik yang lengkap pada laman Instructable saya di https://www.instructables.com/Honda-CRV-RD1-SmartCar-V10/.
+Anda boleh melihat litar skematik yang lengkap pada laman wiki projek  di https://github.com/zulsyah/ProtonGen2SmartCar/wiki/Schematic-Diagram.
 
+<!---
 ### Cara penggunaan sistem ini
 
 1. Buka fail `ESP8266_SmartCar.ino` menggunakan Arduino IDE
@@ -47,5 +50,4 @@ Aplikasi ini hanya mempunyai satu antara muka sahaja.
 BlynkSimpleEsp8266 | ESP8266WiFi | dht11 | SoftwareSerial
 ----- | ----- | ----- | ----- |
 **TinyGPS++** | **Arduino** | **PCF8574** | **Adafruit_ADS1015**
-
-__________________________________________________________________________________________________________________
+-->
