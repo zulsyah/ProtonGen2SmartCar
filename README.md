@@ -3,9 +3,9 @@ oleh AZ Putra
 
 Anda boleh melihat projek saya yang lain di halaman Digital CV saya : http://cv.zulsyah.com
 
-# Bahasa Melayu #
+# Bahasa Melayu
 
-Laman Github ini mengandungi kod sumber *(source code)* untuk projek ini.
+Laman Github ini mengandungi kod sumber untuk projek ini.
 
 - Sistem pengoperasian :
   + **Pelayan :** Raspbian Stretch (berdasarkan Debian 9)
@@ -17,9 +17,27 @@ Laman Github ini mengandungi kod sumber *(source code)* untuk projek ini.
   + **Aplikasi mudah alih :** MIT App Inventor
   + **Aplikasi web :** HTML/CSS/JS
 
-### Litar skematik dan cara pasang
+### Litar skematik dan cara pamasangan
 
-Anda boleh melihat litar skematik yang lengkap pada laman wiki projek  di https://github.com/zulsyah/ProtonGen2SmartCar/wiki/Schematic-Diagram.
+Anda boleh melihat laman wiki github projek ini di https://github.com/zulsyah/ProtonGen2SmartCar/wiki.
+
+# English
+
+This github repo contain all the source code for this project.
+
+- Operating System :
+  + **Server :** Raspbian Stretch (berdasarkan Debian 9)
+  + **Mobile app :** Android/iOS
+
+- Programming Language :
+  + **Pelayan :** Python 3.7
+  + **Nod :** Arduino C++
+  + **Aplikasi mudah alih :** MIT App Inventor
+  + **Aplikasi web :** HTML/CSS/JS
+
+### Schematic diagram and how to install guide
+
+You can view them in github wiki of this project at https://github.com/zulsyah/ProtonGen2SmartCar/wiki.
 
 <!---
 ### Cara penggunaan sistem ini
