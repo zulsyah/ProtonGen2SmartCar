@@ -30,10 +30,10 @@ This github repo contain all the source code for this project.
   + **Mobile app :** Android/iOS
 
 - Programming Language :
-  + **Pelayan :** Python 3.7
-  + **Nod :** Arduino C++
-  + **Aplikasi mudah alih :** MIT App Inventor
-  + **Aplikasi web :** HTML/CSS/JS
+  + **Server :** Python 3.7
+  + **Node :** Arduino C++
+  + **Mobile app:** MIT App Inventor
+  + **Web app :** HTML/CSS/JS
 
 ### Schematic diagram and how to install guide
 
